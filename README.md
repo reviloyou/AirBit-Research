@@ -1,6 +1,6 @@
 # AirBit-Research
 
-Field study of PM2.5 and PM10 exposure along a pedestrian and cycle path next to the E6 highway in Alta, Norway, during winter late winter 2025 until 2026. Carried out in the upper secondary course *Teknologi og forskningslære* (Technology and Research Studies) using a low-cost sensor kit from UiT The Arctic University of Norway's [airbit](https://airbit.uit.no/) program.
+Field study of PM2.5 and PM10 exposure along a pedestrian and cycle path next to the E6 highway in Alta, Norway, during winter late winter 2025 up until easter 2026. Carried out in the upper secondary course *Teknologi og forskningslære* (Technology and Research Studies) using a low-cost sensor kit from UiT The Arctic University of Norway's [airbit](https://airbit.uit.no/) program.
 
 ![Picture of my built bow](Media/AirBitIRL.jpg)
 
